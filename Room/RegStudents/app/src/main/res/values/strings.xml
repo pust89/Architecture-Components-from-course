@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">RegStudents</string>
+    <string name="action_settings">Settings</string>
+    <string name="name">Name</string>
+    <string name="email_youremail_com">email@youremail.com</string>
+    <string name="country">Country</string>
+</resources>
